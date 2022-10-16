@@ -1,6 +1,6 @@
-# dots {title}
+# dots
 
-###### Out personal favorite [dot] files which we would love to share ❤️ {desc}
+Out personal favorite [dot] files which we would love to share ❤️
 
 #### **UPDATE**: You may now use `./install.sh` to easily install these dot files. (Make sure you exit the shell after p10k-config since there's something still remaining, and then you can enjoy your shell via `$ chsh`)
 
